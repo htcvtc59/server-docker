@@ -11,7 +11,7 @@
   
 **RUN CONTAINER** :
 
-    docker run -d -p 2222:22 -e AUTHORIZED_KEYS="`cat ~/.ssh/id_rsa.pub`" htcvtc59/ubuntu-server
+    docker run -d -p 2222:22 -e AUTHORIZED_KEYS="`cat ~/.ssh/id_rsa.pub`" htcvtc59/linux
 
 To connect to this container as root:
 
