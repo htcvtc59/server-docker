@@ -1,5 +1,5 @@
 
-# DOCKER RUN : https://hub.docker.com/r/htcvtc59/ubuntu-server/
+# DOCKER RUN : https://hub.docker.com/r/htcvtc59/linux 
 
 ### Debian
 
